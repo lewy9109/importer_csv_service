@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Docker-based PHP application using Nginx as a load balancer with a Round Robin strategy. It includes two PHP servers and background workers managed by Supervisor.
+This project is a Docker based PHP application using Nginx as a load balancer with a Round Robin strategy. It includes two PHP servers and background workers managed by Supervisor.
 
 ## Purpose
 
