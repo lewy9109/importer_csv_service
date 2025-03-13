@@ -10,4 +10,3 @@ docker-compose build
 docker-compose up -d --remove-orphans
 
 docker exec -it --user www-data app_php composer install
-docker exec -it --user www-data app_php bin/console messenger:consume -vv
