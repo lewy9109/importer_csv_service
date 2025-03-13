@@ -38,8 +38,8 @@ The purpose of this application is to process a CSV file containing 1 million ro
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo.git
-   cd your-repo
+   git clonegit@github.com:lewy9109/importer_csv_service.git
+   cd importer_csv_servic
    ```
 2. Build and start the containers:
    ```bash
