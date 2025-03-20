@@ -99,8 +99,6 @@ ID    Full name            E-mail            City
 ... to 1 mln rows
 ```
 
-is approximately **~ 3 min**.
-
 ## Usage
 
 To check the logs:
